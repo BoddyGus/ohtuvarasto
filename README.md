@@ -1,1 +1,1 @@
-https://github.com/BoddyGus/ohtuvarasto/actions/workflows/WORKFLOW-FILE/badge.s
+![CI](https://github.com/BoddyGus/ohtuvarasto/actions/workflows/main.yml/badge.svg)
